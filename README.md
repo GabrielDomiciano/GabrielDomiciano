@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Gabriel Domiciano  
-**Back‑end Developer** | PHP | Laravel | JavaScript
+**Back‑end Developer** | PHP | Laravel | JavaScript | Node.js
 
 Hey there, I’m **Gabriel Domiciano**  
-**Back‑end Developer** with expertise in PHP, Laravel and JavaScript
+**Back‑end Developer** with expertise in PHP, Laravel, JavaScript and Node.js
 
 ---
 
