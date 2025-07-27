@@ -31,7 +31,7 @@ Graduated in Systems Development with an MBA in Software Engineering.
 
 ## 🚀 Projetos em Destaque | Featured Projects
 
-- **[API de Gestão de Frotas](https://github.com/GabrielDomiciano/api-frota)**  
+- **[API de Gestão de Frotas](https://github.com/GabrielDomiciano/API-gestao-frota)**  
   Backend completo em PHP para controle de veículos, motoristas, manutenções, abastecimentos e relatórios. Desenvolvido como parte do meu TCC e também aplicado em cenários reais.
 
 - **[Uappi Ingestor](https://github.com/GabrielDomiciano/uappi-ingestor)**  
