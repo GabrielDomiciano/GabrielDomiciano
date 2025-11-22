@@ -31,7 +31,7 @@ Graduated in Systems Development with an MBA in Software Engineering.
 
 ## 🚀 Projetos em Destaque | Featured Projects
 
-- **[LivreMente - Sistema de acompanhamento de enxaqueca]([https://github.com/GabrielDomiciano/API-gestao-frota](https://github.com/livre-mente))**  
+- **[LivreMente - Sistema de acompanhamento de enxaqueca]((https://github.com/livre-mente))**  
   Sistema completo desenvolvido com Vue 3 e Lumen para auxiliar pacientes no monitoramento e análise de suas crises de enxaqueca. A aplicação oferece registro detalhado de crises, visualização de histórico, geração de gráficos analíticos e exportação de relatórios em PDF, proporcionando insights valiosos sobre padrões e gatilhos das dores de cabeça.
 
 
